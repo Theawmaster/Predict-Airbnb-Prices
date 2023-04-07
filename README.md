@@ -1,1 +1,1 @@
-# Analysis of 
+# Analysis of Airbnb prices in Singapore
