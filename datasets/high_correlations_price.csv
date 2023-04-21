@@ -1,63 +1,63 @@
 ,correlation
-id,0.2696776530381863
-host_id,0.3010359769999674
-host_response_rate,0.056236483333836906
-host_listings_count,0.3504269748373251
-host_total_listings_count,0.3213404778309337
-accommodates,0.29903182891413504
-bedrooms,0.45153376052083566
-beds,0.03135295499871653
 price,1.0
-maximum_nights,0.03311028249505813
+bedrooms,0.45153376052083566
+calculated_host_listings_count_entire_homes,0.41758622708736787
+host_listings_count,0.3504269748373251
+calculated_host_listings_count,0.32817189846950007
+host_total_listings_count,0.3213404778309337
+host_id,0.3010359769999674
+accommodates,0.29903182891413504
+property_type_Entire serviced apartment,0.2905310294324033
+property_type_Entire rental unit,0.28954605936595446
+name_score,0.27294827693579266
+id,0.2696776530381863
+amenities_count,0.2549519326932542
+description_score,0.24763505090806276
 availability_30,0.2282208015245678
+property_type_Entire condo,0.2089106267831854
 availability_60,0.19117719743050327
 availability_90,0.17127446889842643
-availability_365,0.11122956166205293
-review_scores_cleanliness,0.08789200147264441
-calculated_host_listings_count,0.32817189846950007
-calculated_host_listings_count_entire_homes,0.41758622708736787
-reviews_per_month,0.01852063983867395
-name_score,0.27294827693579266
-description_score,0.24763505090806276
-host_about_score,0.15489555780950864
-amenities_count,0.2549519326932542
-host_response_time_within a day,0.10942333689709996
-host_response_time_within an hour,0.0842305533115285
-"host_verifications_['email', 'phone']",0.013500600238724455
-host_verifications_[],0.021439917048197654
-host_identity_verified_t,0.1176394524053999
-neighbourhood_cleansed_Central Water Catchment,0.055798771019388176
-neighbourhood_cleansed_Clementi,0.1434791901628934
-neighbourhood_cleansed_Downtown Core,0.05821914460164762
-neighbourhood_cleansed_Hougang,0.021847205055136435
-neighbourhood_cleansed_Marina South,0.08502231531586049
-neighbourhood_cleansed_Museum,0.0387161554090358
-neighbourhood_cleansed_Newton,0.02344887555976222
-neighbourhood_cleansed_Novena,0.12045140705620927
 neighbourhood_cleansed_Orchard,0.17084114057204597
-neighbourhood_cleansed_Pioneer,0.020091380336957107
-neighbourhood_cleansed_Queenstown,0.06933577102689555
-neighbourhood_cleansed_River Valley,0.08198025501804211
-neighbourhood_cleansed_Singapore River,0.01392455373819151
 neighbourhood_cleansed_Southern Islands,0.1666495359256083
-neighbourhood_cleansed_Sungei Kadut,0.017791499043603932
-neighbourhood_cleansed_Tanglin,0.06697591942864922
-property_type_Casa particular,0.01625824484803519
-property_type_Entire condo,0.2089106267831854
-property_type_Entire home,0.016579553220402686
-property_type_Entire loft,0.03530563819306695
-property_type_Entire rental unit,0.28954605936595446
-property_type_Entire serviced apartment,0.2905310294324033
-property_type_Entire vacation home,0.019324753239172723
-property_type_Private room in hostel,0.03182297355608766
-property_type_Private room in resort,0.046616677920296896
-property_type_Private room in serviced apartment,0.01563285583072173
-property_type_Private room in tent,0.0188647769805021
-property_type_Room in aparthotel,0.019488378647447735
-property_type_Room in bed and breakfast,0.04833443593635493
-property_type_Room in boutique hotel,0.019351919674571012
+host_about_score,0.15489555780950864
 property_type_Room in hotel,0.14563434559616503
-property_type_Room in serviced apartment,0.020776642202605576
-property_type_Shared room in boutique hotel,0.02887841334341823
-property_type_Shared room in bungalow,0.03613980258399068
+neighbourhood_cleansed_Clementi,0.1434791901628934
+neighbourhood_cleansed_Novena,0.12045140705620927
+host_identity_verified_t,0.1176394524053999
+availability_365,0.11122956166205293
+host_response_time_within a day,0.10942333689709996
+review_scores_cleanliness,0.08789200147264441
+neighbourhood_cleansed_Marina South,0.08502231531586049
+host_response_time_within an hour,0.0842305533115285
+neighbourhood_cleansed_River Valley,0.08198025501804211
 has_availability_t,0.08036523478400606
+neighbourhood_cleansed_Queenstown,0.06933577102689555
+neighbourhood_cleansed_Tanglin,0.06697591942864922
+neighbourhood_cleansed_Downtown Core,0.05821914460164762
+host_response_rate,0.056236483333836906
+neighbourhood_cleansed_Central Water Catchment,0.055798771019388176
+property_type_Room in bed and breakfast,0.04833443593635493
+property_type_Private room in resort,0.046616677920296896
+neighbourhood_cleansed_Museum,0.0387161554090358
+property_type_Shared room in bungalow,0.03613980258399068
+property_type_Entire loft,0.03530563819306695
+maximum_nights,0.03311028249505813
+property_type_Private room in hostel,0.03182297355608766
+beds,0.03135295499871653
+property_type_Shared room in boutique hotel,0.02887841334341823
+neighbourhood_cleansed_Newton,0.02344887555976222
+neighbourhood_cleansed_Hougang,0.021847205055136435
+host_verifications_[],0.021439917048197654
+property_type_Room in serviced apartment,0.020776642202605576
+neighbourhood_cleansed_Pioneer,0.020091380336957107
+property_type_Room in aparthotel,0.019488378647447735
+property_type_Room in boutique hotel,0.019351919674571012
+property_type_Entire vacation home,0.019324753239172723
+property_type_Private room in tent,0.0188647769805021
+reviews_per_month,0.01852063983867395
+neighbourhood_cleansed_Sungei Kadut,0.017791499043603932
+property_type_Entire home,0.016579553220402686
+property_type_Casa particular,0.01625824484803519
+property_type_Private room in serviced apartment,0.01563285583072173
+neighbourhood_cleansed_Singapore River,0.01392455373819151
+"host_verifications_['email', 'phone']",0.013500600238724455
