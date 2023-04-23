@@ -27,6 +27,15 @@ This is a mini project for SC1015 (Introduction to Data Science and Artificial I
 4. Support Vector Regression
 5. Random Forest Regression
 
+## Challenges
+- Conflict due to different schedule amongst team members
+- Time management due to each one of us has our own commitment for other work
+- Miscommunication
+
+## How did we encounter them
+- For the first and second challenge, we had created a google calendar amongst our group so that it provide us an overview of each of the team member schedule. From there we are able to do conflict management by finding a common time slot or opt for a decentralized approach in ensuring we get certain task assigned to every member done by each deadline. Since we opt for the second one we had a meeting minutes to everyone of the member accountable. This ensure that everyone accomplish the task set for them before the meeting
+- For the third concern, besides just using telegram a virtual platform, it is better to hold physical meet up to address some concerns.
+
 ## Conclusion
 
 - Linear Regression, Decision Tree Regression & Support Vector Regression do not fit into our analysis due to low performance metrics
@@ -36,7 +45,12 @@ This is a mini project for SC1015 (Introduction to Data Science and Artificial I
 ## What have we learned from this project?
 
 - Using new ML techniques like Natural Language Processing, Support Vector Regression & Random Forest Regression for further insights
-- More .....
+- Ensemble modeling: Combining the strengths of multiple models, such as linear regression, decision tree, support vector regression, and random forest, can improve prediction performance and understanding of the data.
+- Model complementarity: Different models can complement each other's weaknesses. For example, the interpretability of linear regression and decision tree can enhance the understanding of random forest results, while the robustness of support vector regression can improve overall model performance.
+- Ensemble of SVR and Random Forest: Combining SVR's robustness against outliers and ability to model complex relationships with the strengths of Random Forest can lead to improved prediction accuracy and robustness in various data scenarios.
+
+## Video Link
+- 
 
 ## References
 
