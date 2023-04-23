@@ -10,9 +10,9 @@ This is a mini project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Contributors     
 
-- @Theawmaster 
-- @zh-333 
-- @aaronchualala 
+- @Theawmaster - mainly linear regression, decision tree regression, random forest regression
+- @zh-333 - mainly problem defintion, motivation, insights and video
+- @aaronchualala - mainly data preparation, natural language processing, support vector regression
 
 ## Problem Definition
 
