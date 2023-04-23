@@ -40,7 +40,15 @@ This is a mini project for SC1015 (Introduction to Data Science and Artificial I
 
 - Linear Regression, Decision Tree Regression & Support Vector Regression do not fit into our analysis due to low performance metrics
 - Able to accurately predict the Airbnb price using Random Forest Regression along with the variables
-- More .....
+- Applying new ML techniques like:
+    - Random Forest Regression
+    - Support Vector Regression
+    - Natural Language Processing
+- With the use of our ML techniques:
+    - Predicting the price based on the model selected
+    - Allowing hosts & guests to wisely optimise their experiences
+
+
 
 ## What have we learned from this project?
 
