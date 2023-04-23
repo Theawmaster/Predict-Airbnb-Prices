@@ -11,6 +11,14 @@ This is a mini project for SC1015 (Introduction to Data Science and Artificial I
 ## Contributors     
 
 - @Theawmaster 
+    1. Project code
+        - Exploratory data analysis to ensure that the data is selected thoroughly to be ready to fit in the models to predict our problem statement.
+        -creating the model for the machine learning section, this includes the linear regression, decision tree and random forest tree models
+    2. Slides
+        - Prepare the outline of the slides and the script to be used for the presentation
+        - In charge for the sections of EDA with Aaron
+        - Analysis and comparison of the model that is being used in our project
+        - Came up with the unique insights for our project
 - @zh-333 
 - @aaronchualala 
 
